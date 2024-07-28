@@ -13,5 +13,5 @@ Gapminder Verisi: Bu projede kullanılan veriler, Gapminder'den alınmıştır. 
 
 ## Katkıda Bulunanlar
 İbrahim Püsküllü - Proje kurucusu ve geliştirici
-Lisans
+## Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır.
